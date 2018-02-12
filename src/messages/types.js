@@ -1,0 +1,1 @@
+export const SET_MESSAGE = '[Messages] Set Message';
